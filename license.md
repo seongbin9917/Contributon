@@ -21,7 +21,8 @@
   3. GPL 라이선스
   
     * GPL 2.0은 SW 특허 문제와 설치정보와 관련된 문제(DRM)으로 인해 GPL 3.0 으로 개정되었음
-    * GPL 3.0에서는 라이선스에 포함된 특허의 권리를 양도하는 patent grant와 라이선스 규정을 어겼을 때 발동하는 patent retailiation 조항이 있음
+    * GPL 3.0에서는 라이선스에 포함된 특허의 권리를 양도하는 patent grant와 라이선스 규정을 어겼을 때 발동하는 
+      patent retailiation 조항이 있음
     * GPL 2.0, 3.0 모두 모든 derived work의 소스코드 공개를 요구함
 
 
@@ -49,5 +50,6 @@
   2. JAVA 기반 오픈소스 암호 라이브러리는 대표적으로 Bouncycastle이 많이 사용됨
   
     * Bouncycastle에는 다양한 암호알고리즘이 존재함
-    * Bouncycastle에는 암호학적 해쉬 함수들이 존재하고, 특정 input에 대한 암호학적 해쉬함수 결과값을 만들기 위해서는 항상 update함수와 Digest함수를 
+    * Bouncycastle에는 암호학적 해쉬 함수들이 존재하고, 특정 input에 대한 암호학적 해쉬함수 결과값을 만들기 위해서는 
+      항상 update함수와 Digest함수를 사용해야 함
     
